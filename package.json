@@ -17,7 +17,8 @@
     "gulp-concat": "^2.4.0",
     "gulp-open": "^0.2.8",
     "gulp-browserify": "^0.5.0",
-    "reactify": "^0.14.0"
+    "reactify": "^0.14.0",
+    "firebase": "~2.2.6"
   },
   "dependencies": {
     "babel": "^5.1.11",
